@@ -195,13 +195,28 @@ These metrics provide a comprehensive understanding of model performance beyond 
 
 ---
 
+## 🌐 Live Demo
+
+The Intrusion Detection System has been deployed using **Streamlit Cloud** and can be accessed here:
+
+🔗 **Live Application:** https://cybersecurity-intrusion-detection-4vtn63pubargrpe8xtnwuq.streamlit.app/
+
+### Demo Login Credentials
+
+| Username | Password |
+|----------|----------|
+| admin | 123 |
+
+> **Note:** This is a demonstration application intended for showcasing the machine learning model and dashboard. The login credentials are provided for evaluation purposes only.
+
 ## 💡 Future Improvements
 
-* Evaluate additional machine learning algorithms such as XGBoost, LightGBM, and Support Vector Machines.
-* Implement deep learning-based intrusion detection models.
-* Perform hyperparameter tuning using GridSearchCV or RandomizedSearchCV.
-* Deploy the model as a web application using Streamlit or Flask.
-* Integrate real-time network traffic monitoring.
+Deploy the application on cloud platforms such as AWS, Azure, or GCP.
+Implement secure user authentication and role-based access control.
+Integrate real-time network traffic monitoring.
+Evaluate additional machine learning algorithms such as XGBoost, LightGBM, and Support Vector Machines.
+Perform hyperparameter tuning using GridSearchCV or RandomizedSearchCV.
+Implement deep learning-based intrusion detection models
 
 ---
 
